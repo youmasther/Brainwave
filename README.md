@@ -1,2 +1,8 @@
-# Brainwave
-Enter my world of creativity with Brainwave—a personal React.js masterpiece. It's more than just design; it's a showcase of my skills and innovation. Join me as I push boundaries and unleash the potential of React
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
